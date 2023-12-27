@@ -6,7 +6,7 @@ class Parrot:
 
 
 parrot1 = Parrot()
-parrot1.name = "Blu"
+parrot1.name = "rose"
 parrot1.age = 10
 print(f"{parrot1.name} is {parrot1.age} years old")
 
